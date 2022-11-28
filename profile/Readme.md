@@ -7,7 +7,7 @@ Telegram [provides a rich SDK](https://core.telegram.org/bots/webapps) for TWA d
 During the TWA development process, we realized that some parts of our code deserve to be shared.
 These parts work alongside Telegram SDK. They complete it.
 
-### [@twa-dev/types](https://github.com/twa-dev/Mark42)
+### [@twa-dev/types](https://github.com/twa-dev/types)
 Types for TWA SDK.
 
 ### [@twa-dev/sdk](https://github.com/twa-dev/sdk)
