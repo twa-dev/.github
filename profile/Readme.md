@@ -10,7 +10,7 @@ These parts work alongside Telegram SDK. They complete it.
 ### [@twa-dev/types](https://github.com/twa-dev/types)
 Types for TWA SDK.
 
-### [@twa-dev/sdk](https://github.com/twa-dev/sdk)
+### [@twa-dev/SDK](https://github.com/twa-dev/SDK)
 NPM package for TWA SDK.
 
 ### [@twa-dev/Mark42](https://github.com/twa-dev/Mark42)
