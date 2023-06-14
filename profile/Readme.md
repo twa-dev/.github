@@ -19,6 +19,10 @@ Simple lightweight tree-shakable UI library for TWA.
 ### [@twa-dev/Boilerplate](https://github.com/twa-dev/Boilerplate)
 Liberal Create React App for TWA enthusiasts.
 
+## Design
+### [Figma](https://www.figma.com/@firststagelabs)
+Design component library in Figma, which will make it easier for designers to design apps for TWA. The components fully mimic the Telegram interface, use it as a foundation, and inherit all existing principles. Libraries are available for iOS and Android. Moreover, these same components are reused for designing the [@wallet](https://walletbot.org/). Please note that the libraries are in beta status, so bugs are possible.
+
 ## Communication
 If you have any questions or suggestions about the particular tool, you are welcome to create an Issue or Pull
 Request.
