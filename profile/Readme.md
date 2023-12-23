@@ -1,6 +1,5 @@
-# Welcome to the community of Telegram Mini Apps developers!
-The goal of this organization is to share experiences between Telegram Mini Apps developers. We already have done a lot of work
-and we would like to share it with you.
+# Welcome to the TMA Tools organization!
+This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. 
 
 ## Tools
 Telegram [provides a rich SDK](https://core.telegram.org/bots/webapps) for Telegram Mini Apps developers.
