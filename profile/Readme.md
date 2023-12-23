@@ -1,4 +1,4 @@
-# Welcome to the TMA Tools organization!
+# Welcome to the TMA Tools!
 This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. 
 
 ## Tools
