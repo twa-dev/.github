@@ -17,9 +17,6 @@ Simple lightweight tree-shakable UI library for Telegram Mini Apps.
 
 ## Boilerplates
 
-### [@twa-dev/vanilla-js-boilerplate](https://github.com/twa-dev/vanilla-js-boilerplate)
-Basic and straightforward boilerplate based on simple web technologies: JavaScript, HTML, and CSS. This project aims to provide a minimalistic example of how to create a simple Telegram Mini App and launch it within Telegram without relying on complex build tools or bleeding-edge libraries.
-
 ### [@twa-dev/webpack-boilerplate](https://github.com/twa-dev/webpack-boilerplate)
 Webpack-based modern boilerplate featuring:
 - React
@@ -29,11 +26,15 @@ Webpack-based modern boilerplate featuring:
 - Static analyze
 - Bundle analyze
 
-### [@twa-dev/vite-boilerplate](https://github.com/twa-dev/vite-boilerplate)
+### [@telegram-mini-apps-dev/vanilla-js-boilerplate](https://github.com/telegram-mini-apps-dev/vanilla-js-boilerplate)
+Basic and straightforward boilerplate based on simple web technologies: JavaScript, HTML, and CSS. This project aims to provide a minimalistic example of how to create a simple Telegram Mini App and launch it within Telegram without relying on complex build tools or bleeding-edge libraries.
+
+### [@telegram-mini-apps-dev/vite-boilerplate](https://github.com/telegram-mini-apps-dev/vite-boilerplate)
 [Vite](https://vitejs.dev/) is a modern frontend tool that offers several advantages over traditional build tools, including faster development times, smaller bundle sizes, and improved developer experience. It supports React, Vue, Svelte and many more. This example based on:
 - React
 - TypeScript
 - Deploy with GitHub Actions and GitHub Pages
+
 ## Design
 ### [Figma](https://www.figma.com/@firststagelabs)
 Design component library in Figma, which will make it easier for designers to design apps for Telegram Mini Apps. The components fully mimic the Telegram interface, use it as a foundation, and inherit all existing principles. Libraries are available for iOS and Android. Moreover, these same components are reused for designing the [@wallet](https://walletbot.org/). Please note that the libraries are in beta status, so bugs are possible.
