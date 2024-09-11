@@ -1,5 +1,5 @@
 # Welcome to the TMA Tools!
-This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. 
+This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. Made by [@wallet](t.me/wallet) team with ❤️
 
 ## Tools
 Telegram [provides a rich SDK](https://core.telegram.org/bots/webapps) for Telegram Mini Apps developers.
