@@ -1,5 +1,5 @@
 # Welcome to the TMA Tools!
-This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. Made by [@wallet](t.me/wallet) team with ❤️
+This organization contains set of tools that helps developers to build their TMA in a fast and convinient way. Made by [@wallet](https://t.me/wallet) team with ❤️
 
 ## Tools
 Telegram [provides a rich SDK](https://core.telegram.org/bots/webapps) for Telegram Mini Apps developers.
@@ -37,7 +37,7 @@ Basic and straightforward boilerplate based on simple web technologies: JavaScri
 
 ## Design
 ### [Figma](https://www.figma.com/@firststagelabs)
-Design component library in Figma, which will make it easier for designers to design apps for Telegram Mini Apps. The components fully mimic the Telegram interface, use it as a foundation, and inherit all existing principles. Libraries are available for iOS and Android. Moreover, these same components are reused for designing the [@wallet](https://walletbot.org/). Please note that the libraries are in beta status, so bugs are possible.
+Design component library in Figma, which will make it easier for designers to design apps for Telegram Mini Apps. The components fully mimic the Telegram interface, use it as a foundation, and inherit all existing principles. Libraries are available for iOS and Android. Moreover, these same components are reused for designing the [@wallet](https://t.me/wallet). Please note that the libraries are in beta status, so bugs are possible.
 
 ## Communication
 If you have any questions or suggestions about the particular tool, you are welcome to create an Issue or Pull
